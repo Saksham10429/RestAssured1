@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9175" started-at="2022-03-16T09:34:51Z" finished-at="2022-03-16T09:35:00Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9175" started-at="2022-03-16T09:34:51Z" finished-at="2022-03-16T09:35:00Z">
+      <class name="RestTesting.E_Commerce1">
+        <test-method status="PASS" signature="Login()[pri:1, instance:RestTesting.E_Commerce1@4909b8da]" name="Login" duration-ms="6884" started-at="2022-03-16T15:04:51Z" finished-at="2022-03-16T15:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Getallusers()[pri:2, instance:RestTesting.E_Commerce1@4909b8da]" name="Getallusers" duration-ms="2275" started-at="2022-03-16T15:04:58Z" finished-at="2022-03-16T15:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getallusers -->
+      </class> <!-- RestTesting.E_Commerce1 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
